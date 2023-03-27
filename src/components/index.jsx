@@ -16,7 +16,7 @@ export {default as FacultyTablesPart6} from './charts/faculty/FacultyTablesPart6
 
 //Charts Employees
 export {default as EmployeesCharts} from './charts/employees/EmployeesCharts';
-export {default as EmployeesBarCharts} from './charts/employees/EmployeesBarCharts';
+
 export {default as EmployeesTables} from './charts/employees/EmployeesTables';
 export {default as EmployeesTablesPart2} from './charts/employees/EmployeesTablesPart2';
 export {default as EmployeesTablesPart3} from './charts/employees/EmployeesTablesPart3';
