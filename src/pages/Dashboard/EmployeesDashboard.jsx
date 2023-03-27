@@ -1,7 +1,7 @@
 import { Box, Typography } from '@mui/material'
 import React, {useState, useEffect} from 'react'
 import { employees1Request, publicRequest } from '../../utils/publicRequest'
-import { EmployeesBarCharts, EmployeesCharts, Sidebar, EmployeesTables, EmployeesTablesPart2, EmployeesTablesPart3, EmployeesTablesPart4, EmployeesTablesPart5, EmployeesTablesPart6, FacultyBarCharts, FacultyCharts } from '../../components'
+import { EmployeesCharts, Sidebar, EmployeesTables, EmployeesTablesPart2, EmployeesTablesPart3, EmployeesTablesPart4, EmployeesTablesPart5, EmployeesTablesPart6, FacultyBarCharts, FacultyCharts } from '../../components'
 import { datatable, datatable1, datatable2, datatable3, datatable4, datatable5, datatable6, data, data1, data2, data3, data4, data5, data6, data7, data8, data9, data10, data11, data12} from '../../utils/sampleData'
 
 
